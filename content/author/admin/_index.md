@@ -82,6 +82,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a political scientist with interests lie at the intersection of political development, political economy, and various types of political participation. I have an additional methodological research agenda related to spatial econometric applications to political science. I currently serve as the Research Director in the MIT Election Data and Science Lab, where I manage applied research on the scientific study of elections. I am also an affiliate with the Harvard Institute of Quantitative Social Science. Previously, I worked as a contractor in Arlington, VA where I worked on projects for government and non-profit clients. Before that I was a post-doctoral researcher and graduate student in the Department of Political Science at Texas A&M. I grew up on Crowley's Ridge in the Arkansas Delta.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have published in journals such as Electoral Studies, Political Science Research and Methods, and Social Science Quarterly along with book chapters in university and software presses. I have also published a few blog posts at the Monkey Cage and Democratic Audit.
+
+I have conducted qualitative and survey fieldwork in several Africa, The Middle Eastern, across the U.S., and I have presented at professional conferences around the world. I have taught courses on African Politics, American Government, Comparative Politics, Foreign Policy, Middle Eastern Politics, Policy Analysis, Research Methods, and several workshops on advanced econometrics, qualitative methods, LaTeX, R, Stata, and other types of software.
