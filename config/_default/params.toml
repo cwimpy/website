@@ -58,7 +58,7 @@ address = "77 Massachusetts Ave. | Building E53-433 | Cambridge, MA 02139"
 office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com/wimpy"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
