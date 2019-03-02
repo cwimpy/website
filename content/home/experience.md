@@ -25,18 +25,13 @@ date_format = "January 2006"
   location = "Cambridge, MA"
   date_start = "2017-06-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """Direct applied research and data science aimed at improving election administration in the U.S."""
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
   title = "Senior Researcher"
   company = "Fors Marsh Group"
-  company_url = ""
+  company_url = "forsmarshgroup.com"
   location = "Arlington, VA"
   date_start = "2015-01-12"
   date_end = "2017-05-31"
