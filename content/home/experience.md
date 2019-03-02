@@ -35,11 +35,11 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Senior Researcher"
-  company = "University X"
+  company = "Fors Marsh Group"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Arlington, VA"
+  date_start = "2015-01-12"
+  date_end = "2017-05-31"
+  description = "Led team of applied social science researchers."
 
 +++
