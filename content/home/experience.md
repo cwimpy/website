@@ -36,5 +36,14 @@ date_format = "January 2006"
   date_start = "2015-01-12"
   date_end = "2017-05-31"
   description = "Led team of applied social science researchers."
+  
+[[experience]]
+  title = "Post-Doctoral Researcher"
+  company = "Texas A&M University"
+  company_url = "tamu.edu
+  location = "Arlington, VA"
+  date_start = "2014-6-1"
+  date_end = "2014-12-31"
+  description = "Conducted original political science research."
 
 +++
