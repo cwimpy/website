@@ -5,7 +5,7 @@ title = "What Is and What May Never Be: Economic Voting in Developing Democracie
 date = "2017-08-30"
 
 # Authors. Comma separated list, e.g. `["Blake Garcia", "Cameron Wimpy"]`.
-authors = ["Guy D. Whitten", "Cameron Wimpy"]
+authors = ["Cameron Wimpy", "Guy D. Whitten"]
 
 # Publication type.
 # Legend:
