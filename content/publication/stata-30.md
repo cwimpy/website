@@ -2,7 +2,7 @@
 title = "Stata and Political Science"
 
 # Date first published.
-date = "2017-08-30"
+date = "2015"
 
 # Authors. Comma separated list, e.g. `["Blake Garcia", "Cameron Wimpy"]`.
 authors = ["Guy D. Whitten", "Cameron Wimpy"]
