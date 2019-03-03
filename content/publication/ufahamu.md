@@ -1,11 +1,11 @@
 +++
-title = "The 2009 Presidential and Parliamentary elections in Mozambique"
+title = "Defining Opposition: An Interview with Afonso Dhlakama of RENAMO"
 
 # Date first published.
-date = "2011-06-01"
+date = "2013-01-01"
 
 # Authors. Comma separated list, e.g. `["Blake Garcia", "Cameron Wimpy"]`.
-authors = ["Cameron Wimpy"]
+authors = ["Irvin D. Reid", "Cameron Wimpy"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["Cameron Wimpy"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Electoral Studies*"
-publication_short = "In *Electoral Studies*"
+publication = "In *Social Science Quarterly*"
+publication_short = "In *SSQ*"
 
 # Abstract and optional shortened version.
-abstract = "Armando Guebuza won reelection by an overwhelming margin. FRELIMO gained further control of the parliament.  RENAMO had only a small impact on this election relative to the previous three. A new party, MDM, was able to win a marginal percentage of the votes. Mozambique is close to one-party rule."
+abstract = "Afonso Dhlakama has run in all four multiparty presidential elections in Mozambique. Before that, he led a guerrilla resistance known as RENAMO in a brutal civil war. He is a household name in Mozambique, and he represents over 30 years of opposition to the ruling party of FRELIMO. This transcript is from an interview conducted with Mr. Dhlakama immediately following the 2009 elections. Much of the focus on Mozambican democracy has been on the electoral and economic success of FRELIMO. Nevertheless, RENAMO has played an integral role as the opposition. The future of this role is uncertain, and Mr. Dhlakama and RENAMO are at their weakest point since the civil war ended in 1992. This interview was conducted as part of the African Democracy Project series at Wayne State University"
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -39,7 +39,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0261379411000278"
+url_pdf = "https://escholarship.org/uc/item/4dx5h93f"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

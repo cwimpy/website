@@ -27,10 +27,10 @@ abstract = "We examine the role of administrative capacity on health outcomes in
 abstract_short = "We examine the role of administrative capacity on health outcomes in 36 African nations using the path dependence of being a British colony as the contextual variable."
 
 # Featured image thumbnail (optional)
-image_preview = "combined.pdf"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
