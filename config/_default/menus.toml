@@ -19,16 +19,11 @@
   weight = 30
 
 [[main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 40
-
-[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 40
 
 [[main]]
    name = "CV"
    url = "files/cv-wimpy.pdf"
-   weight = 60
+   weight = 50
