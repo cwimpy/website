@@ -27,7 +27,6 @@ date_format = "January 2006"
   date_end = ""
   description = """Direct applied research and data science aimed at improving election administration in the U.S."""
   
-
 [[experience]]
   title = "Senior Researcher"
   company = "Fors Marsh Group"
@@ -40,9 +39,9 @@ date_format = "January 2006"
 [[experience]]
   title = "Post-Doctoral Researcher"
   company = "Texas A&M University"
-  company_url = "tamu.edu
-  location = "Arlington, VA"
-  date_start = "2014-6-1"
+  company_url = "tamu.edu"
+  location = "College Station, TX"
+  date_start = "2014-06-01"
   date_end = "2014-12-31"
   description = "Conducted original political science research."
 
