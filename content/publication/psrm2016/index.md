@@ -27,7 +27,7 @@ abstract = "This study examines whether acts of anti-government violence exhibit
 abstract_short = "This study examines whether acts of anti-government violence exhibit spatial dependence across state boundaries."
 
 # Digital Object Identifier (DOI)
-doi = "doi.org/10.1017/psrm.2014.18"
+doi = "10.1017/psrm.2014.18"
 
 
 # Is this a selected publication? (true/false)
