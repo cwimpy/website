@@ -19,8 +19,8 @@ authors = ["Blake Garcia", "Cameron Wimpy"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "In *Political Science Research and Methods*."
+publication_short = "In *PSRM*"
 
 # Abstract and optional shortened version.
 abstract = "This study examines whether acts of anti-government violence exhibit spatial dependence across state boundaries. In other words, to what extent can acts of anti-government violence in one country be attributed to violence in neighboring countries? Past research, which has largely focused on civil war or large-scale conflict contagion, finds that geographically proximate states are more likely to experience the cross-boundary diffusion of conflict due to action emulation. However, this assumes that actors are fully aware of conflicts occurring in neighboring countries. To address this, the article argues that the proliferation of communication technology increases access to information about events in neighboring states, thereby allowing emulation to occur and subsequently conditioning the potential for violence to spread. It tests this expectation by modeling the effects of a unique spatial connectivity matrix that incorporates both state contiguity and access to communication technology. An analysis of all acts of anti-government violence in 44 African countries from 2000 to 2011 supports the argument."
