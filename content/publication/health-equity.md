@@ -1,6 +1,5 @@
 +++
-title = "Developing Smokeless Tobacco Prevention Messaging for At-Risk Youth: Early Lessons
-from 'The Real Cost' Smokeless Campaign"
+title = "Developing Smokeless Tobacco Prevention Messaging for At-Risk Youth: Early Lessons from 'The Real Cost' Smokeless Campaign"
 
 # Date first published.
 date = "2018-08-01"
