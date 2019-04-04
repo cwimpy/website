@@ -94,4 +94,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a political scientist with interests in elections, political economy, and political methodology. I currently serve as the Research Director in the [MIT Election Data and Science Lab](http://electionlab.mit.edu), where I manage applied research on the scientific study of elections. I am also an affiliate with the [Harvard Institute of Quantitative Social Science](https://www.iq.harvard.edu/home). I grew up on [Crowley's Ridge](https://en.wikipedia.org/wiki/Crowley%27s_Ridge) in the Arkansas Delta. 
+I am a political scientist with interests in elections, political economy, and political methodology. I currently serve as the Research Director in the [MIT Election Data and Science Lab](http://electionlab.mit.edu), where I manage applied research on the scientific study of elections. I am also an affiliate with the [Harvard Institute for Quantitative Social Science](https://www.iq.harvard.edu/home). I grew up on [Crowley's Ridge](https://en.wikipedia.org/wiki/Crowley%27s_Ridge) in the Arkansas Delta. 
