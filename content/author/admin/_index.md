@@ -75,11 +75,6 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://github.com/cwimpy"
   
 [[social]]
-  icon = "linkedin"
-  icon_pack = "fab"
-  link = "https://www.linkedin.com/in/cwimpy/"
-  
-[[social]]
   icon = "orcid"
   icon_pack = "ai"
   link = "https://orcid.org/0000-0002-2049-5229"
