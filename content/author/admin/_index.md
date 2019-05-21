@@ -57,7 +57,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:wimpy@mit.edu".
+  link = "#contact"  # For a direct email link, use "mailto:cwimpy@astate.edu".
 
 [[social]]
   icon = "twitter"
