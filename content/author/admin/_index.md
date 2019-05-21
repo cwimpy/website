@@ -16,17 +16,18 @@ role = "Research Director"
 organizations = [ { name = "Massachusetts Institute of Technology", url = "electionlab.mit.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Data Science",
-  "Elections",
+  "Data Science"
   "Political Economy",
-  "Political Methodology"
+  "Political Methodology",
+  "Political Violence",
+  "Spatial Econometrics"
 ]
 
 # Organizational groups that you belong to (for People widget)
