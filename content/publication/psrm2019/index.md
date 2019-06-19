@@ -2,7 +2,7 @@
 title = "Interpretation: The Final Spatial Frontier"
 
 # Date first published.
-date = "2019-03-01"
+date = "2019-06-19"
 
 # Authors. Comma separated list, e.g. `["Blake Garcia", "Cameron Wimpy"]`.
 authors = ["Guy D. Whitten", "Laron K. Williams", "Cameron Wimpy"]
@@ -26,8 +26,9 @@ publication_short = "In *PSRM*"
 abstract = "The use of spatial econometric models in political science has steadily risen in recent years. However, the interpretation of these models has generally ignored the important substantive, and even spatial, nature of the estimated effects. This leaves many papers with a (non-spatial) interpretation of coefficients on the covariates and a brief discussion of the sign and strength of the spatial parameter. We introduce a general approach to interpreting spatial models and provide several avenues for an exposition of substantive spatial effects. Our approach can be generalized to most models in the spatial econometric taxonomy. Building on the example of the diffusion of democracy, we elucidate how our approach can be applied to modern political science problems."
 abstract_short = "The use of spatial econometric models in political science has steadily risen in recent years. However, the interpretation of these models has generally ignored the important substantive, and even spatial, nature of the estimated effects."
 
-# Featured image thumbnail (optional)
-image_preview = "combined.pdf"
+# Digital Object Identifier (DOI)
+doi = "10.1017/psrm.2019.9"
+
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -39,7 +40,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://doi.org/10.1017/psrm.2019.9"
 url_preprint = ""
 url_code = "https://doi.org/10.7910/DVN/RGDEET"
 url_dataset = "https://doi.org/10.7910/DVN/RGDEET"
@@ -60,9 +61,12 @@ math = true
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-#[header]
-#image = "combined.pdf"
-#caption = "Predicted increases in violence."
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
 
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Center"
 +++
