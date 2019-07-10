@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Research Director"
+role = "Assistant Professor of Political Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Massachusetts Institute of Technology", url = "electionlab.mit.edu" } ]
+organizations = [ { name = "Arkansas State University", url = "astate.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -53,7 +53,7 @@ user_groups = ["Researchers", "Visitors"]
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:wimpy@mit.edu" or "#contact" for contact widget.
+#   form "mailto:cwimpy@astate.edu" or "#contact" for contact widget.
 
 [[social]]
   icon = "envelope"
@@ -90,4 +90,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a political scientist with interests in elections, political economy, and political methodology. I currently serve as the Research Director in the [MIT Election Data and Science Lab](http://electionlab.mit.edu), where I manage applied research on the scientific study of elections. I am also an affiliate with the [Harvard Institute for Quantitative Social Science](https://www.iq.harvard.edu/home). I grew up on [Crowley's Ridge](https://en.wikipedia.org/wiki/Crowley%27s_Ridge) in the Arkansas Delta. 
+I am a political scientist at Arkansas State University with interests in elections, political economy, and political methodology. I formerly served as the Research Director in the [MIT Election Data and Science Lab](http://electionlab.mit.edu), where I managed applied research on the scientific study of elections. I am also an affiliate with the [Harvard Institute for Quantitative Social Science](https://www.iq.harvard.edu/home). I grew up on [Crowley's Ridge](https://en.wikipedia.org/wiki/Crowley%27s_Ridge) in the Arkansas Delta. 
