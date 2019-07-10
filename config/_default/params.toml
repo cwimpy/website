@@ -12,7 +12,7 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Political scientist at MIT"
+description = "Political scientist at Arkansas State University"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "cwimpy.png"
@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "wimpy@mit.edu"
-phone = "617-253-3164"
-address = "77 Massachusetts Ave. | Building E53-433 | Cambridge, MA 02139"
+email = "cwimpy@astate.edu"
+phone = "870-972-2147"
+address = "PO Box 1750 | HSS 3022 | State University, AR 72467"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -87,8 +87,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 3
 map_api_key = "pk.eyJ1IjoiY3dpbXB5IiwiYSI6ImNpbTltbmp5bjAzbW50a2tpN2ZwM24xdTMifQ.A3Ce__GTRiJj5OK2QbjBXg"
-latitude = "42.361170"
-longitude = "-71.083530"
+latitude = "35.8417"
+longitude = "-90.6775"
 zoom = 15
 
 ############################
