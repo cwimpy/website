@@ -2,7 +2,7 @@
 title = "Bureaucracy and the Failure of Politics: Challenges to Democratic Governance"
 
 # Date first published.
-date = "2019-08-1"
+date = "2019-08-01"
 
 # Authors. Comma separated list
 authors = ["Kenneth J. Meier", "Mallory Compton", "John Polga-Hecimovich", "Miyeon Song", "Cameron Wimpy"]
@@ -30,7 +30,7 @@ doi = ""
 
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
