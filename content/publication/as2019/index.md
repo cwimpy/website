@@ -4,7 +4,7 @@ title = "Bureaucracy and the Failure of Politics: Challenges to Democratic Gover
 # Date first published.
 date = "2019-08-1"
 
-# Authors. Comma separated list, e.g. `["Kenneth J. Meier", "Mallory Compton", "John Polga-Hecimovich", "Miyeon Song", "Cameron Wimpy"]`.
+# Authors. Comma separated list
 authors = ["Kenneth J. Meier", "Mallory Compton", "John Polga-Hecimovich", "Miyeon Song", "Cameron Wimpy"]
 
 # Publication type.
