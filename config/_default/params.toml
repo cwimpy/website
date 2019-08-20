@@ -58,7 +58,7 @@ address = "PO Box 1750 | HSS 3022 | State University, AR 72467"
 office_hours = "MW: 2:30–3:30 p.m. | TR: 9:30–11 a.m."
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/wimpy"
+appointment_url = "https://calendly.com/cwimpy/meeting-with-dr-wimpy"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
