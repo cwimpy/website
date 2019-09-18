@@ -1,5 +1,5 @@
 +++
-title = "Interpretation: The Final Spatial Frontier"
+title = "Interpretation: The Final *Spatial* Frontier"
 
 # Date first published.
 date = "2019-06-19"
