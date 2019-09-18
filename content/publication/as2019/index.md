@@ -26,7 +26,7 @@ publication_short = "In *A&S*"
 abstract = "Bureaucratic reforms worldwide seek to improve the quality of governance. In this article, we argue that the major governance failures are political, not bureaucratic, and the first step to better governance is to recognize the underlying political causes. Using illustrations from throughout the world, we contend that political institutions fail to provide clear policy goals, rarely allocate adequate resources to deal with the scope of the problems, and do not allow the bureaucracy sufficient autonomy in implementation. Rational bureaucratic responses to these problems, in turn, create additional governance problems that could have been avoided if political institutions perform their primary functions."
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1177/0095399719874759"
+doi = "10.1177/0095399719874759"
 
 
 # Is this a selected publication? (true/false)
@@ -40,8 +40,8 @@ projects = []
 
 # Links (optional).
 url_pdf = "https://journals.sagepub.com/doi/pdf/10.1177/0095399719874759"
-url_preprint = ""
-url_code = "https://journals.sagepub.com/eprint/UCX5Z2C3JTP8NAFBXEIT/full"
+url_preprint = "https://journals.sagepub.com/eprint/UCX5Z2C3JTP8NAFBXEIT/full"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
