@@ -48,13 +48,14 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+[[url_custom]]
+name = "Supplemental Files"
+url = "https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fssqu.12757&file=ssqu12757-sup-0001-SuppMat.docx"
+
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Supplemental Files", url = "https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fssqu.12757&file=ssqu12757-sup-0001-SuppMat.docx"}]
-[[url_custom]]
-name = "Supplemental Files"
-url = "https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fssqu.12757&file=ssqu12757-sup-0001-SuppMat.docx"
 
 # Does the content use math formatting?
 math = true
