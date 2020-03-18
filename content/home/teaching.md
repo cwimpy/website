@@ -1,6 +1,6 @@
 +++
 # A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# This section displays recent blog posts from `content/teach/`.
 
 widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
@@ -66,5 +66,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/teach/_index.md" >}}).
+Quickly discover relevant content by [filtering courses]({{< ref "/teach/_index.md" >}}).
 {{% /alert %}}
