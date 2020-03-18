@@ -4,7 +4,7 @@ title = "Abstention, Protest, and Residual Votes in the 2016 Election"
 # Date first published.
 date = "2019-12-23"
 
-# Authors. Comma separated list, e.g. `["Blake Garcia", "Cameron Wimpy"]`.
+# Authors. Comma separated list
 authors = ["Charles Stewart III", "R. Michael Alvarez", "Stephen Pettigrew", "Cameron Wimpy"]
 
 # Publication type.
