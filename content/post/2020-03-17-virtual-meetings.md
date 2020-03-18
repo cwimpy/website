@@ -1,7 +1,7 @@
 ---
 title: Best practices for virtual meetings
 author: Cameron Wimpy
-date: '2020-03-20'
+date: '2020-03-17'
 categories:
   - teaching
 tags:
