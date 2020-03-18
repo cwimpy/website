@@ -64,4 +64,5 @@ preserveTaxonomyNames = true
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
+  course_type = "course_types"
   author = "authors"
