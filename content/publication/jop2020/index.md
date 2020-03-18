@@ -2,7 +2,7 @@
 title = "X Marks the Spot: Discovering the Treasure of Spatial-X Models"
 
 # Date first published.
-date = "2021-01-01"
+date = "2020-03-14"
 
 # Authors. Comma separated list, e.g. `["Blake Garcia", "Cameron Wimpy"]`.
 authors = ["Cameron Wimpy", "Guy D. Whitten", "Laron K. Williams"]
