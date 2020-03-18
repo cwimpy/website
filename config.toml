@@ -13,7 +13,7 @@ baseurl = "https://cwimpy.com"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Cameron Wimpy 2019"
+copyright = "&copy; Cameron Wimpy 2017–2020"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-17389463-5"
