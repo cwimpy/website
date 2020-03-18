@@ -55,7 +55,7 @@ phone = "870-972-2147"
 address = "PO Box 1750 | HSS 3022 | State University, AR 72467"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = "MW: 2:30–3:30 p.m. | TR: 9:30–11 a.m."
+office_hours = "MW: 10:30–11:30 p.m. | R: 9:30–11:30 a.m."
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/cwimpy/meeting-with-dr-wimpy"
