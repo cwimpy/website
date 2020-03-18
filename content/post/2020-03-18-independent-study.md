@@ -6,7 +6,7 @@ categories:
   - teaching
 tags:
   - policies
-slug: virtual-meetings
+slug: independent-study
 image:
   caption: ''
   focal_point: ''
