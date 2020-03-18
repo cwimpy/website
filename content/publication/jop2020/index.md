@@ -1,8 +1,8 @@
 +++
-title = "Interpretation: The Final Spatial Frontier"
+title = "X Marks the Spot: Discovering the Treasure of Spatial-X Models"
 
 # Date first published.
-date = "2021-1-1"
+date = "2021-01-01"
 
 # Authors. Comma separated list, e.g. `["Blake Garcia", "Cameron Wimpy"]`.
 authors = ["Cameron Wimpy", "Guy D. Whitten", "Laron K. Williams"]
