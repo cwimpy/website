@@ -30,7 +30,7 @@ doi = "10.1111/ssqu.12757"
 
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_supp = [{name = "Supplemental Files", url = "https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fssqu.12757&file=ssqu12757-sup-0001-SuppMat.docx"}]
 
 # Does the content use math formatting?
 math = true
@@ -65,6 +65,6 @@ highlight = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "TopRight"
 
 +++
