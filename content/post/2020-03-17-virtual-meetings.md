@@ -18,11 +18,11 @@ This post provides best practices for virtual meetings and seminars in the event
 
 It is now very common to experience virtual meetings in private industry, and increasingly first-round job interviews are being conducted remotely. We are also seeing an increased use in the university setting. This means that it is an important part of professional development to become competent in participating in remote meetings, regardless of whether it is for a course or another activity. You are best served to learn now how the process works given the large scale of importance of many meetings. For my classes and students, I will expect anyone to have read this post before requesting assistance.
 
-# How Does This Work?
+# How does this work?
 
 In general, video conferencing applications allow remote users to connect with other users or to a centralized meeting location where others are meeting in-person. Most applications include video support via webcam (e.g., built-in, external, or industrial), computer, and/or phone-based audio. If you are in a meeting room and are not in charge of the meeting, then you can simply participate in person. If you are joining the meeting remotely, then you need to have your computer, phone, and meeting space all prepared. 
 
-# Getting Started
+# Getting started
 
 Most meetings are initiated with a URL that takes you to an associated website with the aim of downloading a local copy of the software. If you click the link and give the software permission to run, then most of the time you are prepared. Once it launches, you will likely want to identify and select the "mute" and "video" buttons so you can have those options off until the meeting begins. If your connection is unstable or slow, then you can opt to join with your phone (this varies by application and meeting host) using a phone number with the associated meeting ID. 
 
@@ -30,11 +30,11 @@ If the URL is supplied in advance, then you typically have the option of downloa
 
 This should be one of many opportunities in your career as a student (and beyond) for you to become better acquainted with how your computer works. For example, you should know exactly where the input/output audio/video settings are in your operating system. You should also know any keyboard shortcuts for volume controls, preferences, and anything else potentially related to operating quickly in the moment. Be familiar with how to respond to the versions of your operating system and any given application. This allows you to more easily troubleshoot issues as they arise. 
 
-# Setting Up Your Meeting Space 
+# Setting up your meeting space 
 
 If you are joining the meeting remotely, you will still need your own meeting space. The best spaces are quiet rooms with good acoustics (when possible). You should avoid settings with personal items in the background, and always remember that others can see anything in your immediate area. It is also best to avoid loud places with other people talking or otherwise making any noise. This is disruptive to the entire meeting, and it almost always reflects poorly on the individual causing the disruption. 
 
-# During the Meeting
+# During the meeting
 
 The following points are a list of best practices to follow while in or planning a virtual meeting:
 
@@ -85,7 +85,7 @@ If you have an internet connection and the application is slow to respond then I
 
 Hardware issues typically cannot be resolved in time for the meeting. This is why it is a good idea to test things out beforehand. You should also have a Plan B in place. 
 
-## Audio Issues
+## Audio issues
 
 As mentioned above, if you have connectivity issues, you can revert to using your phone for joining the meeting. The same rule applies if you have audio trouble. You can also use your phone in conjunction with the video on your computer, but you should never use the audio from two devices in the same room. This creates a feedback echo that can ruin a meeting and immediately identify you as technology illiterate, which for some situations can be quite embarrassing. However, everyone will occasionally have issues from time to time, and when it does happen simply apologize, correct the issue, and move on.
 
@@ -97,7 +97,7 @@ As with audio, video problems often begin with the video option off. If you are 
 
 It is crucial to remember that the potential for embarrassment with video is something that you should never forget. This can make or break your presentation, interview, career (at least your current step on the ladder), and even reputation. Always be mindful of your appearance, your verbal and nonverbal reactions to others, and anything else in your environment. 
 
-# Final Remarks 
+# Final remarks 
 
 Virtual meetings are increasingly becoming part of working in a professional environment. The sooner that you become proficient in them, the better your career and professional life will be. No one is going to be amazed when you are able to make things work and participate, but if you are unable to properly join the meeting then it will almost certainly diminish your ability to make an impact---whether that means getting a job or participating in class.
 
