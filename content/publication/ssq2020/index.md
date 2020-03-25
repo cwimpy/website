@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1111/ssqu.1275"
+url_pdf = "http://cwimpy.com/files/ssq2020.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
