@@ -1,68 +1,67 @@
-+++
-title = "Administrative Capacity and Health Care in Africa: Path Dependence as a Contextual Variable"
+---
+title: "Administrative Capacity and Health Care in Africa: Path Dependence as a Contextual Variable"
+authors:
+- admin
+- Marlette Jackson
+- Kenneth J. Meier
+date: "2018-08-01"
+doi: "https://www.liebertpub.com/doi/10.1089/heq.2018.0029"
 
-# Date first published.
-date = "2017-03-01"
-
-# Authors. Comma separated list, e.g. `["Blake Garcia", "Cameron Wimpy"]`.
-authors = ["Cameron Wimpy", "Marlette Jackson", "Kenneth J. Meier"]
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-03-01"
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
-publication_types = ["6"]
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["6"]
 
-# Publication name and optional abbreviated version.
-publication = "In *Comparative Public Management: Why National, Environmental, and Organizational Context Matters*"
-publication_short = "In *Comparative Public Management*"
+# Publication name and optional abbreviated publication name.
+publication: "*Health Equity*"
+publication_short: "Health Equity"
 
-# Abstract and optional shortened version.
-abstract = "We examine the role of administrative capacity on health outcomes in 36 African nations using the path dependence of being a British colony as the contextual variable. "
-abstract_short = "We examine the role of administrative capacity on health outcomes in 36 African nations using the path dependence of being a British colony as the contextual variable."
+abstract: We examine the role of administrative capacity on health outcomes in 36 African nations using the path dependence of being a British colony as the contextual variable.
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# Summary. An optional shortened abstract.
+summary: We examine the role of administrative capacity on health outcomes in 36 African nations using the path dependence of being a British colony as the contextual variable.
+tags:
+- Political Science
+- Public Health
+- Public Policy
+- Africa
+featured: true
 
-# Is this a selected publication? (true/false)
-selected = false
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
-
-# Links (optional).
-url_pdf = "http://press.georgetown.edu/book/georgetown/comparative-public-management"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
-
-# Does the content use math formatting?
-math = true
-
-# Does the content use source code highlighting?
-highlight = true
+# links:
+# - name: ""
+#   url: ""
+url_pdf: http://press.georgetown.edu/book/georgetown/comparative-public-management
+url_code: 
+url_dataset:
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-#[header]
-#image = "combined.pdf"
-#caption = "Predicted increases in violence."
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 
-+++
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
+

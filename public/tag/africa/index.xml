@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Africa | Cameron Wimpy</title>
+    <link>/tag/africa/</link>
+      <atom:link href="/tag/africa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Africa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Cameron Wimpy 2020</copyright><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Africa</title>
+      <link>/tag/africa/</link>
+    </image>
+    
+    <item>
+      <title>Administrative Capacity and Health Care in Africa: Path Dependence as a Contextual Variable</title>
+      <link>/publication/africa-health/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/africa-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Is and What May Never Be: Economic Voting in Developing Democracies</title>
+      <link>/publication/ssq2017a/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ssq2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Information Lead to Emulation? Spatial Dependence in Anti-Government Violence</title>
+      <link>/publication/psrm2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/psrm2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2009 Presidential and Parliamentary elections in Mozambique</title>
+      <link>/publication/es-moz/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/es-moz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining Opposition: An Interview with Afonso Dhlakama of RENAMO</title>
+      <link>/publication/ufahamu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/ufahamu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

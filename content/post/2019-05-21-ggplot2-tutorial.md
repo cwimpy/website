@@ -7,6 +7,7 @@ categories:
   - data science
 tags:
   - ggplot2
+  - Political Methodology
 image:
   caption: ''
   focal_point: ''

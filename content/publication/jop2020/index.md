@@ -1,71 +1,67 @@
-+++
-title = "X Marks the Spot: Discovering the Treasure of Spatial-X Models"
+---
+title: "X Marks the Spot: Discovering the Treasure of Spatial-X Models"
+authors:
+- admin
+- Guy D. Whitten
+- Laron K. Williams
+date: "2020-04-01"
+doi: ""
 
-# Date first published.
-date = "2020-03-14"
-
-# Authors. Comma separated list, e.g. `["Blake Garcia", "Cameron Wimpy"]`.
-authors = ["Cameron Wimpy", "Guy D. Whitten", "Laron K. Williams"]
+# Schedule page publish date (NOT publication's date).
+publishDate: "2020-04-01"
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
-publication_types = ["2"]
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
 
-# Publication name and optional abbreviated version.
-publication = "In *Journal of Politics*"
-publication_short = "In *JoP*"
+# Publication name and optional abbreviated publication name.
+publication: "*Journal of Politics*"
+publication_short: "JoP"
 
-# Abstract and optional shortened version.
-abstract = "In recent years, political scientists have made extensive use of spatial econometric models to test a wide range of theories. In a review of spatial papers, we find that a majority of these studies use the spatial autoregressive (SAR) model. Although this is a powerful method that reveals inferences about diffusion processes, it is also highly restrictive and makes assumptions that often are not appropriate given the expressed theories. We contend that spatial-X (SLX) models are a better reflection of typical theories about spatial processes. Our simulations demonstrate that SLX models consistently retrieve the direct and indirect effects of covariates when the true data- generating process reflects other spatial processes. SAR models, on the other hand, tend to find phantom higher-order effects that are not present in the data. We further demonstrate how SLX models reveal heterogeneity in patterns of spatial dependence in countries’ defense burdens that SAR models cannot discover."
+abstract: In recent years, political scientists have made extensive use of spatial econometric models to test a wide range of theories. In a review of spatial papers, we find that a majority of these studies use the spatial autoregressive (SAR) model. Although this is a powerful method that reveals inferences about diffusion processes, it is also highly restrictive and makes assumptions that often are not appropriate given the expressed theories. We contend that spatial-X (SLX) models are a better reflection of typical theories about spatial processes. Our simulations demonstrate that SLX models consistently retrieve the direct and indirect effects of covariates when the true data- generating process reflects other spatial processes. SAR models, on the other hand, tend to find phantom higher-order effects that are not present in the data. We further demonstrate how SLX models reveal heterogeneity in patterns of spatial dependence in countries’ defense burdens that SAR models cannot discover.
 
-# Digital Object Identifier (DOI)
-doi = ""
+# Summary. An optional shortened abstract.
+summary: We contend that spatial-X (SLX) models are a better reflection of typical theories about spatial processes.
 
+tags:
+- Politcal Science 
+- Political Methodology
+- Spatial Econometrics
+featured: true
 
-# Is this a selected publication? (true/false)
-selected = true
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
-
-# Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = "https://doi.org/10.7910/DVN/RFYOH6"
-url_dataset = "https://doi.org/10.7910/DVN/RFYOH6"
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
-
-# Does the content use math formatting?
-math = true
-
-# Does the content use source code highlighting?
-highlight = true
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 
+url_code: https://doi.org/10.7910/DVN/RFYOH6
+url_dataset: https://doi.org/10.7910/DVN/RFYOH6
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-+++
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
+

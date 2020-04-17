@@ -1,0 +1,1234 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Cameron Wimpy">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Introduction This post provides best practices for virtual meetings and seminars in the event that they are necessary. We often need to employ video conferencing for our seminars, one-on-one and group meetings, or for other unforeseen circumstances.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/post/virtual-meetings/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#4caf50">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-17389463-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-17389463-5', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/post/virtual-meetings/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@camwimpy">
+  <meta property="twitter:creator" content="@camwimpy">
+  
+  <meta property="og:site_name" content="Cameron Wimpy">
+  <meta property="og:url" content="/post/virtual-meetings/">
+  <meta property="og:title" content="Best practices for virtual meetings | Cameron Wimpy">
+  <meta property="og:description" content="Introduction This post provides best practices for virtual meetings and seminars in the event that they are necessary. We often need to employ video conferencing for our seminars, one-on-one and group meetings, or for other unforeseen circumstances."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2020-03-17T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-03-17T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/post/virtual-meetings/"
+  },
+  "headline": "Best practices for virtual meetings",
+  
+  "datePublished": "2020-03-17T00:00:00Z",
+  "dateModified": "2020-03-17T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Cameron Wimpy"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cameron Wimpy",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Introduction This post provides best practices for virtual meetings and seminars in the event that they are necessary. We often need to employ video conferencing for our seminars, one-on-one and group meetings, or for other unforeseen circumstances."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Best practices for virtual meetings | Cameron Wimpy</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Cameron Wimpy</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Cameron Wimpy</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv-wimpy.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Best practices for virtual meetings</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 17, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    11 min read
+  </span>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <a href="/post/virtual-meetings/#disqus_thread"></a>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/teaching/">teaching</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h1 id="introduction">Introduction</h1>
+<p>This post provides best practices for virtual meetings and seminars in the event that they are necessary. We often need to employ video conferencing for our seminars, one-on-one and group meetings, or for other unforeseen circumstances. This type of meeting is likely new to most of you, and the purpose of this document is to make them run as smoothly and professionally as possible. Keep in mind that almost all of the points below apply across video conferencing applications&mdash;whether it is 
+<a href="https://www.bluejeans.com" target="_blank" rel="noopener">BlueJeans</a>, 
+<a href="https://www.gotomeeting.com" target="_blank" rel="noopener">GoToMeeting</a>, 
+<a href="https://www.webex.com" target="_blank" rel="noopener">Webex</a>, 
+<a href="https://zoom.us" target="_blank" rel="noopener">Zoom</a>, etc. In general, some of the same points will apply to free services such as 
+<a href="https://duo.google.com/about/" target="_blank" rel="noopener">Google Duo</a>, 
+<a href="https://apps.apple.com/us/app/facetime/id1110145091" target="_blank" rel="noopener">Apple FaceTime</a>, 
+<a href="https://www.skype.com/en/" target="_blank" rel="noopener">Skype</a>, etc., but the options on those platforms are typically more limited. You can think of these types of applications as aimed at enterprise solutions versus ordinary consumer use. There is also a distinction between multipurpose collaboration applications such as 
+<a href="https://teams.microsoft.com/start" target="_blank" rel="noopener">Microsoft Teams</a> and 
+<a href="https://slack.com" target="_blank" rel="noopener">Slack</a>, which are chat and collaboration first, with video conferencing serving a secondary function.</p>
+<p>It is now very common to experience virtual meetings in private industry, and increasingly first-round job interviews are being conducted remotely. We are also seeing an increased use in the university setting. This means that it is an important part of professional development to become competent in participating in remote meetings, regardless of whether it is for a course or another activity. You are best served to learn now how the process works given the large scale of importance of many meetings. For my classes and students, I will expect anyone to have read this post before requesting assistance.</p>
+<h1 id="how-does-this-work">How does this work?</h1>
+<p>In general, video conferencing applications allow remote users to connect with other users or to a centralized meeting location where others are meeting in-person. Most applications include video support via webcam (e.g., built-in, external, or industrial), computer, and/or phone-based audio. If you are in a meeting room and are not in charge of the meeting, then you can simply participate in person. If you are joining the meeting remotely, then you need to have your computer, phone, and meeting space all prepared.</p>
+<h1 id="getting-started">Getting started</h1>
+<p>Most meetings are initiated with a URL that takes you to an associated website with the aim of downloading a local copy of the software. If you click the link and give the software permission to run, then most of the time you are prepared. Once it launches, you will likely want to identify and select the &ldquo;mute&rdquo; and &ldquo;video&rdquo; buttons so you can have those options off until the meeting begins. If your connection is unstable or slow, then you can opt to join with your phone (this varies by application and meeting host) using a phone number with the associated meeting ID.</p>
+<p>If the URL is supplied in advance, then you typically have the option of downloading a free copy of the software from the provider&rsquo;s website (e.g., Zoom). The upside of this approach is that you can ensure that the software will run on your machine, and you can better familiarize yourself with the various options. In any case, once the meeting starts troubleshooting becomes much more costly, and downright embarrassing, depending on the situation.</p>
+<p>This should be one of many opportunities in your career as a student (and beyond) for you to become better acquainted with how your computer works. For example, you should know exactly where the input/output audio/video settings are in your operating system. You should also know any keyboard shortcuts for volume controls, preferences, and anything else potentially related to operating quickly in the moment. Be familiar with how to respond to the versions of your operating system and any given application. This allows you to more easily troubleshoot issues as they arise.</p>
+<h1 id="setting-up-your-meeting-space">Setting up your meeting space</h1>
+<p>If you are joining the meeting remotely, you will still need your own meeting space. The best spaces are quiet rooms with good acoustics (when possible). You should avoid settings with personal items in the background, and always remember that others can see anything in your immediate area. It is also best to avoid loud places with other people talking or otherwise making any noise. This is disruptive to the entire meeting, and it almost always reflects poorly on the individual causing the disruption.</p>
+<h1 id="during-the-meeting">During the meeting</h1>
+<p>The following points are a list of best practices to follow while in or planning a virtual meeting:</p>
+<ul>
+<li>
+<p><strong>Dress for the meeting as if it was in person.</strong> If you have a job interview, dress formally. If it is a class, dress as you would for the class. If you do not normally wear pajamas to class, it is best to stick to the norm.</p>
+</li>
+<li>
+<p><strong>Position your camera so you are looking straight ahead.</strong> It appears unprofessional when people are looking down or up into the camera. If you are using a laptop I find that stacking books is an adequate solution.</p>
+</li>
+<li>
+<p><strong>Look at the camera and not the screen when you are talking.</strong> In some cases this is accomplished very easily since the camera is attached to the screen. However, in large meeting rooms the camera(s) may be in a different location than the screen. You should understand the mechanics of the meeting before it begins so you can participate in a way that maximizes your contribution.</p>
+</li>
+<li>
+<p><strong>If there are others within earshot of the meeting, wear headphones.</strong> This is common courtesy to those individuals not in your meeting, and it ensures that meeting discussions are kept discrete.</p>
+</li>
+<li>
+<p><strong>Do not work on unrelated tasks during the meeting.</strong> This is rude and disruptive, and it is more obvious to spot than you might think. This includes staying off your phone if possible. If you are typing notes, then make sure to mute yourself and try to stay engaged as much as you can while you type.</p>
+</li>
+<li>
+<p><strong>Treat the meeting the same as if it were in-person.</strong> This can be situational. For example, you would not leave a job interview to take a break without asking. You also would not yell or talk over others without some social consequence&mdash;these same rules apply to virtual meetings.</p>
+</li>
+<li>
+<p><strong>Use the same meeting ID for recurring meetings.</strong> This allows individuals in recurring meetings to avoid the confusion of having to remember multiple meeting IDs. There are exceptions to this rule when privacy and/or security are concerned&mdash;use your own discretion. For most cases in the academic world, a recurring meeting is best and most convenient. Typically the application will allow you to set a meeting as recurring and will automatically generate a meeting ID.</p>
+</li>
+<li>
+<p><strong>Mute yourself when you are not talking&mdash;especially in formal meetings.</strong> This allows for freedom when it comes to outside noise, and it also ensures you are not accidentally disrupting the sound for those who are talking.</p>
+</li>
+<li>
+<p><strong>Always check your open application and browser tabs before screen sharing.</strong> Some of the potential issues here are obvious, and they range from the potential for seeming disorganized to the potential for losing out on a job (or, worse, being terminated from one). Most applications let you select exactly what you want to share. For example, if I am going to show some results from <code>Stata</code> or <code>R</code>, I select only those applications. The same goes for when showing a paper or slideshow (select the PDF application or browser).</p>
+</li>
+<li>
+<p><strong>Apologize when you disrupt the meeting.</strong> If you cause a disruption, take responsibility, apologize, correct it, and move on.</p>
+</li>
+<li>
+<p><strong>Use calendar invitations to invite others to your meeting.</strong> Professionalism counts, always. This also provides the added benefit of knowing that your meeting colleagues both had an e-mail and calendar setting from you (so no excuses if they are absent!)</p>
+</li>
+<li>
+<p><strong>Do not talk over others.</strong> Just be nice. You can always be the kinder colleague and take it upon yourself to ensure that everyone is heard without interruption. If you talk over someone or interrupt, treat it as if you are there in person, kindly apologize, and give them the floor. Listening is almost always better than talking unless it is specifically your turn to talk/present.</p>
+</li>
+<li>
+<p><strong>Use the chat function sparingly.</strong> This is another potential avenue for embarrassment as individuals will often intend to message one person, and instead message the entire group. Making a negative comment about a colleague or superior that everyone can see has any number of social and/or professional consequences. The best use of the chat function is to greet a new person in a large meeting and/or letting the organizer know you are working on some technical issue that you plan to resolve soon. You can also send files and links via some applications, but these will disappear when the meeting ends so you should ask if that is the best approach for sharing.
+\newpage</p>
+</li>
+<li>
+<p><strong>Do not use an audio-only meeting when video is better or vice versa.</strong> Sometimes a quick phone call will suffice, but typically a more formal meeting with video is the best replacement for when it is difficult to meet in person. However, some meetings can be avoided entirely, and that is something I suggest keeping in the back of your mind.</p>
+</li>
+<li>
+<p><strong>Do have an agenda (even if informal and in your own notes) if you are running the meeting.</strong> If it is a formal meeting and there are a myriad of issues to cover, send a formal agenda to the group in advance of the meeting.</p>
+</li>
+<li>
+<p><strong>Do have Plan B for connecting to the meeting.</strong> If the meeting is really important, try to locate a backup device, whether it is another computer, phone or tablet. Otherwise, (at the very least) be prepared to call via phone and just participate via audio.</p>
+</li>
+</ul>
+<p>Keep in mind that most of these points are situational&mdash;just use your best judgment and common sense.</p>
+<h1 id="troubleshooting">Troubleshooting</h1>
+<p>As is the case with all technology, there are occasional failures. Most issues fall into three categories: (1) connectivity, (2) hardware, and/or (3) software. If you think the issue is connectivity, then check another application that accesses the internet (e.g., Chrome, Firefox, Safari) to see if that is the problem. If it is, then check your Wi-Fi connection (or Ethernet as applicable) and make sure the network is broadcasting internet signal to your machine. If it is not, and you are unable to diagnose the problem, then notify the meeting organizer immediately. In many cases the best option is to join the meeting via your phone using the dial-in number and meeting ID.</p>
+<p>If you have an internet connection and the application is slow to respond then I would suggest the following steps in successive steps (if one does not work move to the next):</p>
+<ol>
+<li>Restart the application.</li>
+<li>Restart your computer.</li>
+<li>Delete and re-install the latest version of the application.</li>
+<li>Visit the associated troubleshooting page for the developer and try to diagnose your specific problem.</li>
+</ol>
+<p>Hardware issues typically cannot be resolved in time for the meeting. This is why it is a good idea to test things out beforehand. You should also have a Plan B in place.</p>
+<h2 id="audio-issues">Audio issues</h2>
+<p>As mentioned above, if you have connectivity issues, you can revert to using your phone for joining the meeting. The same rule applies if you have audio trouble. You can also use your phone in conjunction with the video on your computer, but you should never use the audio from two devices in the same room. This creates a feedback echo that can ruin a meeting and immediately identify you as technology illiterate, which for some situations can be quite embarrassing. However, everyone will occasionally have issues from time to time, and when it does happen simply apologize, correct the issue, and move on.</p>
+<p>The most common audio issue is that a user is on &ldquo;mute&rdquo; and they simply do not realize it. Check that first. If you are not on &ldquo;mute,&rdquo; then check your audio input (or microphone) settings for your computer. Keep in mind that these can exist both within the application and your operating system. If you have alternative input options (e.g., headphones, built-in microphone) you can also try toggling those to see if one works when the other does not.</p>
+<h2 id="video">Video</h2>
+<p>As with audio, video problems often begin with the video option off. If you are sure that you do, then the next step is to check the video settings in both the application and the operating system. If the webcam has an &ldquo;on&rdquo; indicator light and is not illuminated, then you likely have a settings or driver problem. If the webcam connects externally, make sure it works elsewhere and the appropriate software is installed as needed. You can try your webcam with another application to see if it works at all. If it does not, then you likely have a hardware issue that will need to be addessed at a later time.</p>
+<p>It is crucial to remember that the potential for embarrassment with video is something that you should never forget. This can make or break your presentation, interview, career (at least your current step on the ladder), and even reputation. Always be mindful of your appearance, your verbal and nonverbal reactions to others, and anything else in your environment.</p>
+<h1 id="final-remarks">Final remarks</h1>
+<p>Virtual meetings are increasingly becoming part of working in a professional environment. The sooner that you become proficient in them, the better your career and professional life will be. No one is going to be amazed when you are able to make things work and participate, but if you are unable to properly join the meeting then it will almost certainly diminish your ability to make an impact&mdash;whether that means getting a job or participating in class.</p>
+<p>
+<a href="http://cwimpy.com/files/Virtual-Meetings.pdf" target="_blank" rel="noopener">Download</a> a PDF copy of this post.</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/policies/">policies</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/post/virtual-meetings/&amp;text=Best%20practices%20for%20virtual%20meetings" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/post/virtual-meetings/&amp;t=Best%20practices%20for%20virtual%20meetings" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Best%20practices%20for%20virtual%20meetings&amp;body=/post/virtual-meetings/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/post/virtual-meetings/&amp;title=Best%20practices%20for%20virtual%20meetings" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/author/cameron-wimpy/avatar_hu97ce62ab0f9c28d0d5870daed431e509_186786_270x270_fill_q90_lanczos_center.jpg" alt="Cameron Wimpy">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="/">Cameron Wimpy</a></h5>
+        <h6 class="card-subtitle">Assistant Professor of Political Science</h6>
+        <p class="card-text">My research interests include political methodology, political violence, and public policy.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/camwimpy" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?hl=en&amp;user=LRQ7rpwAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/cwimpy" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/files/cv-wimpy.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+
+
+
+
+
+<section id="comments">
+  
+    
+<div id="disqus_thread"></div>
+<script>
+  let disqus_config = function () {
+    
+    
+    
+  };
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+      return;
+    }
+    var d = document, s = d.createElement('script'); s.async = true;
+    s.src = 'https://' + "camwimpy" + '.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+  
+</section>
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    <script id="dsq-count-scr" src="https://camwimpy.disqus.com/count.js" async></script>
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    © Cameron Wimpy 2020 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

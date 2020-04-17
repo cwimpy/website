@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research | Cameron Wimpy</title>
+    <link>/category/research/</link>
+      <atom:link href="/category/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Cameron Wimpy 2020</copyright><lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>research</title>
+      <link>/category/research/</link>
+    </image>
+    
+    <item>
+      <title>New publication on the interpretation of spatial models</title>
+      <link>/post/spatial-interpretation/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/post/spatial-interpretation/</guid>
+      <description>&lt;p&gt;Along with 
+&lt;a href=&#34;https://pols.tamu.edu/about-us/faculty-directory/guy-d-whitten-professor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guy D. Whitten&lt;/a&gt; and 
+&lt;a href=&#34;http://web.missouri.edu/~williamslaro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laron K. Williams&lt;/a&gt;, I have a recently published article in 
+&lt;a href=&#34;https://www.cambridge.org/core/journals/political-science-research-and-methods&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Political Science Research and Methods&lt;/em&gt;&lt;/a&gt;. Check it out 
+&lt;a href=&#34;https://doi.org/10.1017/psrm.2019.9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

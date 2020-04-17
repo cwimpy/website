@@ -1,67 +1,66 @@
-+++
-title = "Are Media at Work in Your Neighborhood? The Effects of Media Freedom, Internet Access, and Information Spillover on Workers’ Rights"
+---
+title: "Are Media at Work in Your Neighborhood? The Effects of Media Freedom, Internet Access, and Information Spillover on Workers’ Rights"
+authors:
+- Christopher McKallagat
+- Flávio D. S. Souza
+- Jenifer Whitten‐Woodring
+- admin
+date: "2017-08-30"
+doi: "https://doi.org/10.1111/ssqu.12443"
 
-# Date first published.
-date = "2017-08-30"
-
-# Authors. Comma separated list, e.g. `["Blake Garcia", "Cameron Wimpy"]`.
-authors = ["Christopher McKallagat",  "Flávio D. S. Souza",  "Jenifer Whitten‐Woodring",  "Cameron Wimpy"]
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-08-30"
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
-publication_types = ["2"]
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
 
-# Publication name and optional abbreviated version.
-publication = "In *Social Science Quarterly*"
-publication_short = "In *SSQ*"
+# Publication name and optional abbreviated publication name.
+publication: "*Social Science Quarterly*"
+publication_short: "SSQ"
 
-# Abstract and optional shortened version.
-abstract = "**Objective**: In this study, we focus on how access to information empowers workers and pressures government and firms to improve labor conditions. **Methods**: We consider the effects of two critical mechanisms supporting both information access and flow across borders (i.e., media freedom and Internet usage) on workers’ rights across countries and over time using spatial models. **Results**: The findings overall indicate that there is a spatial component associated with the degree of workers’ rights in a given country. Further analysis reveals that this is due—at least in part—to the level of media freedom and information flow across borders. **Conclusion**: We find support for the theorized notion that the ability of workers to secure and exercise their rights to collective bargaining and freedom of association in the workplace depends In this study, we focus on how access to information empowers workers and pressures government and firms to improve labor conditions."
+abstract: Objective. In this study, we focus on how access to information empowers workers and pressures government and firms to improve labor conditions. Methods. We consider the effects of two critical mechanisms supporting both information access and flow across borders (i.e., media freedom and Internet usage) on workers’ rights across countries and over time using spatial models. Results. The findings overall indicate that there is a spatial component associated with the degree of workers’ rights in a given country. Further analysis reveals that this is due—at least in part—to the level of media freedom and information flow across borders. Conclusion. We find support for the theorized notion that the ability of workers to secure and exercise their rights to collective bargaining and freedom of association in the workplace depends In this study, we focus on how access to information empowers workers and pressures government and firms to improve labor conditions.
 
-# Featured image thumbnail (optional)
-image_preview = "ssqb.png"
+# Summary. An optional shortened abstract.
+summary: In this study, we focus on how access to information empowers workers and pressures government and firms to improve labor conditions.
 
-# Is this a selected publication? (true/false)
-selected = true
+tags:
+- Political Science
+- Spatial Econometrics
+featured: false
 
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
-
-# Links (optional).
-url_pdf = "https://doi.org/10.1111/ssqu.12443"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
-
-# Does the content use math formatting?
-math = true
-
-# Does the content use source code highlighting?
-highlight = true
+# links:
+# - name: ""
+#   url: ""
+url_pdf: files/ssqu.12443.pdfœ
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-#[header]
-#image = "combined.pdf"
-#caption = "Predicted increases in violence."
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
 
-+++
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---

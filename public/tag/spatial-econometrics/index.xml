@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial Econometrics | Cameron Wimpy</title>
+    <link>/tag/spatial-econometrics/</link>
+      <atom:link href="/tag/spatial-econometrics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatial Econometrics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Cameron Wimpy 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Spatial Econometrics</title>
+      <link>/tag/spatial-econometrics/</link>
+    </image>
+    
+    <item>
+      <title>X Marks the Spot: Discovering the Treasure of Spatial-X Models</title>
+      <link>/publication/jop2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jop2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretation: The Final Spatial Frontier</title>
+      <link>/publication/psrm2019/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/psrm2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are Media at Work in Your Neighborhood? The Effects of Media Freedom, Internet Access, and Information Spillover on Workers’ Rights</title>
+      <link>/publication/ssq2017b/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ssq2017b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Information Lead to Emulation? Spatial Dependence in Anti-Government Violence</title>
+      <link>/publication/psrm2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/psrm2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

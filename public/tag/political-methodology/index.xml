@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Political Methodology | Cameron Wimpy</title>
+    <link>/tag/political-methodology/</link>
+      <atom:link href="/tag/political-methodology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Political Methodology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Cameron Wimpy 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Political Methodology</title>
+      <link>/tag/political-methodology/</link>
+    </image>
+    
+    <item>
+      <title>X Marks the Spot: Discovering the Treasure of Spatial-X Models</title>
+      <link>/publication/jop2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jop2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretation: The Final Spatial Frontier</title>
+      <link>/publication/psrm2019/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/psrm2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GGPLOT2 Tutorial</title>
+      <link>/post/ggplot2-tutorial/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      <guid>/post/ggplot2-tutorial/</guid>
+      <description>&lt;p&gt;I am in the process of creating a &lt;code&gt;ggplot2&lt;/code&gt; tutorial for my students. It will continue to grow as I get time. Feel free to check it 
+&lt;a href=&#34;https://cwimpy.github.io/ggplot2-tutorial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; out and use any part of it as you wish.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Does Information Lead to Emulation? Spatial Dependence in Anti-Government Violence</title>
+      <link>/publication/psrm2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/psrm2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stata and Political Science</title>
+      <link>/publication/stata-30/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/stata-30/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
