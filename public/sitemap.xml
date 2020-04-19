@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/africa/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/teaching/african-politics/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
@@ -183,17 +203,17 @@
   </url>
   
   <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/6/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/africa-health/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/africa/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
