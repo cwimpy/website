@@ -65,7 +65,7 @@ social:
   link: https://orcid.org/0000-0002-2049-5229
 - icon: publons
   icon_pack: ai
-  link: <span id="badgeCont983"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont983&rid=AAL-4656-2020&size=small"></script></span>
+  link: https://publons.com/researcher/AAL-4656-2020/
 - icon: researcherid
   icon_pack: ai
   link: https://publons.com/researcher/AAL-4656-2020/
