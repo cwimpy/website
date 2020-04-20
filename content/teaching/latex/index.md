@@ -1,5 +1,5 @@
 ---
-title: Introduction to \LaTeX
+title: Introduction to LaTeX
 summary: Learn how to typset beautiful scientific documents
 tags:
 - Workshops
