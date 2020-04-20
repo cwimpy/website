@@ -66,6 +66,9 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/3566880/cameron-wimpy/
+- icon: researcherid
+  icon_pack: ai
+  link:https://publons.com/researcher/AAL-4656-2020/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/camwimpy
