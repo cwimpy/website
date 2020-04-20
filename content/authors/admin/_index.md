@@ -51,6 +51,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  
+- icon: dataverse
+  icon_pack: ai
+  link: https://dataverse.harvard.edu/dataverse/cwimpy
 - icon: github
   icon_pack: fab
   link: https://github.com/cwimpy
