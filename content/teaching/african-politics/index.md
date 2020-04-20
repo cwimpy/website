@@ -1,6 +1,6 @@
 ---
 title: African Political Systems
-summary: The government and politics of primarily sub-Saharan Africa, involves study of the people as well as their political institutions.
+summary: The government and politics of primarily sub-Saharan Africa, involves study of the people as well as their political institutions
 tags:
 - Courses
 - Africa
