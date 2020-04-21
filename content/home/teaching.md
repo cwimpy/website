@@ -35,7 +35,7 @@ subtitle = "Courses & Workshops"
 	
   [[content.filter_button]]
     name = "Short Courses"
-    tag = "Short Courses"
+    tag = "Short"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
