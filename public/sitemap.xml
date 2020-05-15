@@ -18,17 +18,52 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-04-24T11:51:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-04-24T11:51:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/policies/</loc>
+    <lastmod>2020-04-24T11:51:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-04-24T11:51:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/professionalism/</loc>
+    <lastmod>2020-04-24T11:51:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/email/</loc>
+    <lastmod>2020-04-24T11:51:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-24T11:51:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/teaching/</loc>
+    <lastmod>2020-04-24T11:51:28-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/africa/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/teaching/african-politics/</loc>
-    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,12 +78,57 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/teaching/inter-pol/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/latex/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/model-un/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/pol-analysis/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/us-gov/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/mid-east/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/pol-econ/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/short/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/spatial-econ/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/teaching/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/workshops/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,27 +193,7 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/independent-study/</loc>
-    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/policies/</loc>
-    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/teaching/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   

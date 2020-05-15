@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Short | Cameron Wimpy</title>
+    <link>/tag/short/</link>
+      <atom:link href="/tag/short/index.xml" rel="self" type="application/rss+xml" />
+    <description>Short</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Cameron Wimpy 2020</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Short</title>
+      <link>/tag/short/</link>
+    </image>
+    
+    <item>
+      <title>Spatial Econometrics</title>
+      <link>/teaching/spatial-econ/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/spatial-econ/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
