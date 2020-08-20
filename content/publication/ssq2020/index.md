@@ -5,7 +5,7 @@ authors:
 - R. Michael Alvarez
 - Stephen Pettigrew
 - admin
-date: "2015-06-01"
+date: "2020-03-01"
 doi: "https://doi.org/10.1111/ssqu.12757"
 
 # Schedule page publish date (NOT publication's date).
