@@ -31,15 +31,15 @@
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "whatsapp"
-  url = "https://web.whatsapp.com/send?text={title}%20{url}"
+  url = "whatsapp://send?text={title}%20{url}"
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "weibo"

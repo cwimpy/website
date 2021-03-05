@@ -2,24 +2,21 @@
 # Display name
 title: Cameron Wimpy
 
-# Username (this should match the folder name)
-authors:
-- admin
-
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
+# Role/position/tagline
 role: Assistant Professor of Political Science
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
 - name: Arkansas State University
-  url: "astate.edu"
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include political methodology, political violence, and public policy.
 
+# Interests to show in About widget
 interests:
 - Data Science
 - Political Economy
@@ -28,6 +25,7 @@ interests:
 - Public Policy
 - Spatial Econometrics
 
+# Education to show in About widget
 education:
   courses:
   - course: PhD in Political Science
@@ -43,11 +41,11 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: cv
   icon_pack: ai
-  link: files/cv-wimpy.pdf
+  link: media/cv-wimpy.pdf
 - icon: envelope
   icon_pack: fas
   link: '#contact'  
@@ -73,14 +71,21 @@ social:
   icon_pack: fab
   link: https://twitter.com/camwimpy
 
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 ---
 
+
 I am a political scientist at Arkansas State University with interests in political economy, political methodology, and political violence. I am an affiliate faculty with the Center for No Boundary Thinking at A-State. I formerly served as the Research Director in the [MIT Election Data and Science Lab](http://electionlab.mit.edu), where I managed applied research on the scientific study of elections. I was also previously an affiliate faculty member with the [Harvard Institute for Quantitative Social Science](https://www.iq.harvard.edu/home). I grew up on [Crowley's Ridge](https://en.wikipedia.org/wiki/Crowley%27s_Ridge) in the Arkansas Delta. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-wimpy.pdf" "newtab" >}}CV{{< /staticref >}}.
