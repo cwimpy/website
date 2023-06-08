@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© Cameron Wimpy 2010–. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -79,13 +79,6 @@ features:
     disqus:
       shortname: 'camwimpy'
       show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
   search:
     provider: wowchemy
     algolia:
@@ -94,7 +87,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 i_am_a_sponsor: true
