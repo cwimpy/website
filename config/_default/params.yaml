@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: forest
+  theme_night: forest
+  font: classic
   font_size: L
 
 # SEO
@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    twitter: 'camwimpy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

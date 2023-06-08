@@ -6,7 +6,7 @@ title: Cameron Wimpy
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor and Interim Chair of Political Science
+role: Associate Professor and Depoartment Chair of Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
