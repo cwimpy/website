@@ -1,13 +1,13 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-06-08
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Cameron Wimpy
       image:
         filename: hero-academic.png
       cta:
