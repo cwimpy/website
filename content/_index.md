@@ -48,6 +48,10 @@ sections:
         postcode: '72467'
         country: United States
         country_code: US
+		coordinates:
+		  latitude: '35.841757'
+		  longitude: '-90.677370'
+		directions: My office is on the 3rd floor of the HSS building.
       office_hours:
         - By appoitnment only
       contact_links:
