@@ -18,13 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Political Scientist at Arkansas State University'
     twitter: 'camwimpy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-17389463-5'
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'google-site-verification=QKIn9adD7DrxVV4NbFjkI0b7lJpwmAAf4Dgc_GA70iM'
     baidu: ''
 
 # Site header
@@ -75,9 +75,9 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'disqus'
     disqus:
-      shortname: ''
+      shortname: 'camwimpy'
       show_count: true
     commento:
       url: ''
