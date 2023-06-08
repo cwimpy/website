@@ -1,84 +1,90 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
+title: Cameron Wimpy
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor and Interim Chair of Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+- name: Arkansas State University
+  url: https://www.astate.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include political methodology, political economy, political violence, and public policy.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Data Science
+- Political Economy
+- Political Methodology
+- Public Policy
+- Spatial Econometrics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD in Political Science
+    institution: Texas A&M University
+    year: 2014
+  - course: MA in Political Science
+    institution: Arkansas State University
+    year: 2009
+  - course: BA in Political Science
+    institution: Arkansas State University
+    year: 2007
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/cv-wimpy.pdf
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  
+- icon: dataverse
+  icon_pack: ai
+  link: https://dataverse.harvard.edu/dataverse/cwimpy
+- icon: github
+  icon_pack: fab
+  link: https://github.com/cwimpy
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=LRQ7rpwAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2049-5229
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/AAL-4656-2020/
+- icon: researcherid
+  icon_pack: ai
+  link: https://publons.com/researcher/AAL-4656-2020/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/camwimpy
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+
+I am associate professor and department chair of political science at Arkansas State University with interests in comparative public administration, political economy, political methodology, and public policy. Starting in Fall 2022, I am also the founding director of the [Institute for Rural Initiatives](https://www.astate.edu/a/iri/). I am an affiliate faculty with the [Center for No Boundary Thinking](https://www.astate.edu/a/cnbt/) at A-State. I formerly served as the Research Director in the [MIT Election Data and Science Lab](http://electionlab.mit.edu), where I managed applied research on the scientific study of elections. I was previously an affiliate faculty member with the [Harvard Institute for Quantitative Social Science](https://www.iq.harvard.edu/home). I grew up on [Crowley's Ridge](https://en.wikipedia.org/wiki/Crowley%27s_Ridge) in the Arkansas Delta. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-wimpy.pdf" "newtab" >}}CV{{< /staticref >}}.
