@@ -48,7 +48,7 @@ sections:
         postcode: '72467'
         country: United States
         country_code: US
-		directions: My office is on the 3rd floor of the HSS building.
+	  directions: My office is on the 3rd floor of the HSS building.
       office_hours:
         - By appoitnment only
       contact_links:
