@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/cwimpy/website'
     content_dir: content
     branch: main
   avatar:
@@ -97,7 +97,7 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
-
+i_am_a_sponsor: true
 # Extensions
 
 extensions:
